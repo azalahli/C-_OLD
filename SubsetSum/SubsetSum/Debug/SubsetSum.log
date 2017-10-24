@@ -1,0 +1,156 @@
+﻿Build started 4/20/2017 5:00:48 PM.
+     1>Project "C:\Users\Mober6\Documents\Visual Studio 2012\Projects\SubsetSum\SubsetSum\SubsetSum.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp Sublist.cpp SubsetSum.cpp
+         SubsetSum.cpp
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(9): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(9): error C2062: type 'int' unexpected
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(10): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(10): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(10): error C2065: 'choices' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2039: 'iterator' : is not a member of '`global namespace''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2065: 'iterator' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2146: syntax error : missing ';' before identifier 'iter'
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2065: 'iter' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(11): error C2065: 'iterBest' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(14): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(14): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(15): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(15): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(16): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(16): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(17): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(17): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(18): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(18): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(19): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(19): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(20): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(20): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(21): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(21): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(22): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(22): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(23): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(23): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(24): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(24): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(26): error C2065: 'choices' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(26): error C2228: left of '.clear' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(27): error C2065: 'cout' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(27): error C2065: 'endl' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(31): error C2065: 'iterBest' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\subsetsum.cpp(31): error C2227: left of '->showSublist' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+         Sublist.cpp
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(5): error C2653: 'Sublist' : is not a class or namespace name
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(5): error C2270: 'getSum' : modifiers not allowed on nonmember functions
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(7): error C2065: 'originalObjects' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(7): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(8): error C2065: 'originalObjects' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(16): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(16): error C2062: type 'int' unexpected
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(17): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(17): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(17): error C2065: 'choices' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2039: 'iterator' : is not a member of '`global namespace''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2065: 'iterator' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2146: syntax error : missing ';' before identifier 'iter'
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2065: 'iter' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(18): error C2065: 'iterBest' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(22): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(22): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(23): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(23): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(24): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(24): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(25): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(25): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(26): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(26): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(27): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(27): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(29): error C2065: 'choices' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(29): error C2228: left of '.clear' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(32): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(32): error C2062: type 'int' unexpected
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(33): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(33): error C2146: syntax error : missing ';' before identifier 'bestSoFar'
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(33): error C2065: 'dummy' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(33): error C3861: 'bestSoFar': identifier not found
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(34): error C2065: 'cout' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(34): error C2065: 'endl' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(35): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(35): error C2062: type 'int' unexpected
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(36): error C2065: 'vector' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(36): error C2062: type 'int' unexpected
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(37): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(37): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(38): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(38): error C2228: left of '.size' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(40): error C2065: 'temp' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(40): error C2228: left of '.push_back' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(40): error C2065: 'dataSet' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(40): error C2228: left of '.at' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(42): error C2065: 'Sublist' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(42): error C2146: syntax error : missing ';' before identifier 's'
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(42): error C2065: 'temp' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(42): error C3861: 's': identifier not found
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(43): error C2065: 's' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(43): error C2228: left of '.getSum' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(48): error C2065: 'bestSoFar' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(48): error C2065: 's' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(50): error C2065: 'temp' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(50): error C2228: left of '.clear' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(55): error C2065: 'cout' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(55): error C2065: 'bestSoFar' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(55): error C2228: left of '.getSum' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(55): error C2065: 'endl' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(56): error C2065: 'cout' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(57): error C2065: 'bestSoFar' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(57): error C2228: left of '.originalObjects' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(57): error C2228: left of '.size' must have class/struct/union
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(58): error C2065: 'cout' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(58): error C2065: 'bestSoFar' : undeclared identifier
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(58): error C2228: left of '.originalObjects' must have class/struct/union
+                 type is ''unknown-type''
+     1>c:\users\mober6\documents\visual studio 2012\projects\subsetsum\subsetsum\sublist.cpp(58): error C2228: left of '.at' must have class/struct/union
+         stdafx.cpp
+         Generating Code...
+     1>Done Building Project "C:\Users\Mober6\Documents\Visual Studio 2012\Projects\SubsetSum\SubsetSum\SubsetSum.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.74

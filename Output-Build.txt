@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: ConsoleApplication12, Configuration: Debug Win32 ------
+1>  ConsoleApplication12.vcxproj -> c:\users\mober6\documents\visual studio 2012\Projects\ConsoleApplication12\Debug\ConsoleApplication12.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
